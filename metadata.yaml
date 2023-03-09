@@ -1,0 +1,42 @@
+_repo: New-England-s-rarities-discovered-b-In-birds-beasts-fishes-serpents-and-plants-of-that-countr__70111
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Tuckerman, Edward
+    birthdate: 1817
+    deathdate: 1886
+    gutenberg_agent_id: '55602'
+    url: http://www.gutenberg.org/2009/agents/55602
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Tuckerman
+creator:
+  author:
+    agent_name: Josselyn, John, active 1630-1675
+    gutenberg_agent_id: '54027'
+    url: http://www.gutenberg.org/2009/agents/54027
+    wikipedia: https://en.wikipedia.org/wiki/John_Josselyn
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70111'
+  lccn: '13013033'
+language: en
+pgterms:marc904: https://archive.org/details/newenglandsrarit00joss/page/n7/mode/2up
+pgterms:marc905: 20220308115653josselyn
+pgterms:marc906: '1865'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bWilliam Veazie, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Medicine'
+- !lcsh 'Natural history -- New England -- Pre-Linnean works'
+- !lcsh 'Materia medica -- New England'
+- !lcc 'QH'
+- GITenberg
+title: 'New-England''s rarities discovered : $b In birds, beasts, fishes, serpents,
+  and plants of that country'
+url: http://www.gutenberg.org/ebooks/70111
