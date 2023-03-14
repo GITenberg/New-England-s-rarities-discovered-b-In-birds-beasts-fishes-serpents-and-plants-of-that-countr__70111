@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '55602'
     url: http://www.gutenberg.org/2009/agents/55602
     wikipedia: https://en.wikipedia.org/wiki/Edward_Tuckerman
+covers:
+- cover_type: archival
+  image_path: 70111-h/images/cover.jpg
 creator:
   author:
     agent_name: Josselyn, John, active 1630-1675
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54027
     wikipedia: https://en.wikipedia.org/wiki/John_Josselyn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70111#New-England-s-rarities-discovered-b-In-birds-beasts-fishes-serpents-and-plants-of-that-countr_
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70111'
